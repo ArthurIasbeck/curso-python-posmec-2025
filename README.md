@@ -55,17 +55,13 @@ O material aborda fundamentos de Python, vetorização, manipulação de dados e
 
 ---
 
-## 💻 Notebooks Colab (Curso Introdutório)
+## 💻 Notebooks Utilizados no Curso **Python Para Engenheiros: Uma Introdução**
 
-Os códigos e exemplos apresentados no minicurso introdutório estão disponíveis online:
+Os scrips apresentados durante o minicurso "Python Para Engenheiros: Uma Introdução" estão disponíveis nos links abaixo:
 
-- 🧠 **Notebooks do curso:**
+- 🧠 [**Scrips apresentados durante o curso**](https://colab.research.google.com/drive/1eFi00ll_MfzqiUtXfM_LNwfXQ7FHnlbA?usp=sharing)
     
-    [Colab — Python Para Engenheiros: Uma Introdução](https://colab.research.google.com/drive/1eFi00ll_MfzqiUtXfM_LNwfXQ7FHnlbA?usp=sharing)
-    
-- 🚀 **Projeto final:**
-    
-    [Colab — Projeto Final: Python Para Engenheiros](https://colab.research.google.com/drive/1TOs3qx3tGpF0NK2oJJtZTWgqjUsYUN1U)
+- 🚀 [**Projeto Final**](https://colab.research.google.com/drive/1TOs3qx3tGpF0NK2oJJtZTWgqjUsYUN1U)
     
 
 ---
