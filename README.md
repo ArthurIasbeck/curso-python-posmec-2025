@@ -68,6 +68,6 @@ Os scrips apresentados durante o minicurso "Python Para Engenheiros: Uma Introdu
 
 ## 📚 Estudos Futuros
 
-Orientações e trilhas de estudo para aprofundamento estão disponíveis no Notion:
+Que tal continuar aprendendo mais sobre Python? Se for esse o seu intuito, vale à pena dar uma olhada nas sugestões presentes no link abaixo:
 
-👉 [Orientações para Estudos Futuros](https://www.notion.so/Python-para-Engenheiros-Uma-Introdu-o-281c488d01c68007afe8ec0b1a3de59d?pvs=21)
+👉 [Sugestões para Estudos Futuros](https://www.notion.so/arthur-iasbeck/Python-para-Engenheiros-Uma-Introdu-o-281c488d01c68007afe8ec0b1a3de59d?source=copy_link#285c488d01c680fcba4affa985fee49b)
